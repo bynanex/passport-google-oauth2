@@ -1,26 +1,26 @@
 {
-  "_from": "passport-google-oauth2@^0.1.6",
+  "_from": "git+https://github.com/bynanex/passport-google-oauth2.git",
   "_id": "passport-google-oauth2@0.1.6",
   "_inBundle": false,
-  "_integrity": "sha512-8+Netyh40qLYBRG0u0PMNKNYyufMrIAnGUbcDTSwXP33WJmPgYB6BjVr/NuOgLsGvov1k0ysDAy5dhQkYOTYvA==",
+  "_integrity": "",
   "_location": "/passport-google-oauth2",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "passport-google-oauth2@^0.1.6",
+    "type": "git",
+    "raw": "passport-google-oauth2@git+https://github.com/bynanex/passport-google-oauth2.git",
     "name": "passport-google-oauth2",
     "escapedName": "passport-google-oauth2",
-    "rawSpec": "^0.1.6",
-    "saveSpec": null,
-    "fetchSpec": "^0.1.6"
+    "rawSpec": "git+https://github.com/bynanex/passport-google-oauth2.git",
+    "saveSpec": "git+https://github.com/bynanex/passport-google-oauth2.git",
+    "fetchSpec": "https://github.com/bynanex/passport-google-oauth2.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/passport-google-oauth2/-/passport-google-oauth2-0.1.6.tgz",
+  "_resolved": "git+https://github.com/bynanex/passport-google-oauth2.git#f2a776e61ed7a9c770469588709586964916e486",
   "_shasum": "dfd7016ac7449fe27cfeb252ae974afc23257a0d",
-  "_spec": "passport-google-oauth2@^0.1.6",
+  "_spec": "passport-google-oauth2@git+https://github.com/bynanex/passport-google-oauth2.git",
   "_where": "D:\\NodeJS\\tankws\\tactic",
   "author": {
     "name": "Marcus Stade",
